@@ -2,7 +2,7 @@
 
 # Flash-Chat
 
-![FlashChat](https://user-images.githubusercontent.com/46874509/62074194-7d393e80-b242-11e9-8ffb-5656952ed9cc.gif)
+![FlashChat](https://user-images.githubusercontent.com/46874509/62079813-b926d080-b24f-11e9-8e0b-6ad223ed4fd1.gif)
 
 ## What is Flash Chat 
 
